@@ -1,2 +1,0 @@
-# miPaginaHTML
-Mi blog html
