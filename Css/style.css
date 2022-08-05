@@ -9,7 +9,11 @@ header {
 }
 body {
     margin-left: 10px;
-    background-image: url("https://toppng.com/this-is-a-support-icon-league-of-legends-support-PNG-free-PNG-Images_267861");
+    background-image: url("https://p.kindpng.com/picc/s/490-4908273_support-png-image-file-league-of-legends-support.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 18rem;
 }
 h1 {
     letter-spacing: 20px;
